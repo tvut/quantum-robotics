@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7595242f-c7f2-41f4-9bcf-a5043e097307" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PrGD0GVybUJQaQTOgW0w5fl7CW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trist\OneDrive\Code\quantum" />
+      <recent name="F:\Onedrive\Code\quantum\assets" />
+      <recent name="F:\Onedrive\Code\quantum" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\trist\OneDrive\Code\quantum" />
+      <recent name="F:\Onedrive\Code\quantum\assets\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7595242f-c7f2-41f4-9bcf-a5043e097307" name="Default Changelist" comment="" />
+      <created>1566624678509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566624678509</updated>
+      <workItem from="1566624679748" duration="9845000" />
+      <workItem from="1566759109752" duration="4705000" />
+      <workItem from="1566769022488" duration="7672000" />
+      <workItem from="1567319658828" duration="12000" />
+      <workItem from="1567406380911" duration="7000" />
+      <workItem from="1567667850990" duration="3065000" />
+      <workItem from="1567898311213" duration="200000" />
+      <workItem from="1567959380376" duration="1228000" />
+      <workItem from="1568137648964" duration="15000" />
+      <workItem from="1568154946157" duration="598000" />
+      <workItem from="1568400824606" duration="2184000" />
+      <workItem from="1568420220860" duration="7766000" />
+      <workItem from="1568430680048" duration="359000" />
+      <workItem from="1568509519310" duration="705000" />
+      <workItem from="1568529290354" duration="224000" />
+      <workItem from="1568691127401" duration="174000" />
+      <workItem from="1568744089559" duration="17000" />
+      <workItem from="1569553455906" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
